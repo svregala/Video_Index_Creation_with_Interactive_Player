@@ -13,4 +13,4 @@ In this project, we develop a solution to:
 - The video width and height of the video will be fixed (480x270).
 - The sampling rate of the audio will be fixed.
 - The video FPS is generalized, typically tested on 30 fps or 24 fps.
-- The length of the video will vary - **IMPORTANT**: the index creation is tailored and optimized for video clips that are at least 2 minutes in length.
+- The required length of the video will vary - **IMPORTANT**: the index creation is tailored and optimized for video clips that are at least 2 minutes in length.
